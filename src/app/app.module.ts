@@ -19,6 +19,7 @@ const routers: Routes = [
   declarations: [
     AppComponent,
     ListExpensesComponent,
+    AddExpenseComponent
   ],
   imports: [
     BrowserModule,
